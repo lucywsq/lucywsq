@@ -1,6 +1,6 @@
 ---
 name: 安装（Installation）
-about: Create a report to help us improve
+about: 您可以提问安装、编译相关问题。 You could use this template for reporting an installation  issue.
 labels: 
 
 ---
